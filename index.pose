@@ -399,7 +399,7 @@
 (the function signum)
 (the function sqrt)
 (the function isqrt)
-(the system class random-state)
+(the (system class) random-state)
 (the function make-random-state)
 (the function random)
 (the function random-state-p)
