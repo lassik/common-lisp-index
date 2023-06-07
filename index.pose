@@ -207,7 +207,7 @@
 (the (standard generic function) class-name)
 (the (standard generic function) (setf class-name))
 (the function class-of)
-(the condition type unbound-slot)
+(the (condition type) unbound-slot)
 (the function unbound-slot-instance)
 
 (section "8.1" "The Structures Dictionary")
